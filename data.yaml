@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['kask', 'sapka']
+
+roboflow:
+  workspace: eness-workspace-oyhag
+  project: helmet_hat_dataset
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/eness-workspace-oyhag/helmet_hat_dataset/dataset/6
