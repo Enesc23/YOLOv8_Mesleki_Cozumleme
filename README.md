@@ -1,0 +1,1 @@
+# YOLOv8_Mesleki_Cozumleme
